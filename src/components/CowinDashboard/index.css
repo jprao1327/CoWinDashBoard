@@ -1,0 +1,21 @@
+.main-bg-container {
+  background-color: #161625;
+  padding: 0% 5%;
+}
+.main-heading-container {
+  display: flex;
+  gap: 2%;
+  align-items: center;
+}
+.main-heading-container img {
+  width: 40px;
+  height: 40px;
+}
+.main-heading-container p {
+  color: #2cc6c6;
+  font-size: 20px;
+}
+.cowin-heading {
+  color: white;
+  font-size: 30px;
+}

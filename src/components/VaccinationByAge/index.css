@@ -1,0 +1,7 @@
+.vaccination-by-age-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 20px;
+}
